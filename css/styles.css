@@ -113,3 +113,14 @@ p {
   width: 15%;
   margin: 20px 20px 20px;
 }
+
+
+/* Pricing */
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-col {
+  padding: 3% 2%;
+}
